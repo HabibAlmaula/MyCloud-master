@@ -1,0 +1,4 @@
+#Thu Dec 27 13:52:27 ICT 2018
+base.0=C\:\\Users\\Media Center FKAM\\Downloads\\Compressed\\MyCloud-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
